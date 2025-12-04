@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Rushikesh Thorat**
-🚀 *Aspiring Data Analyst | Python | SQL | Power BI | Advanced Excel | EDA | Machine Learning Learner*
+🚀 *Aspiring Data Scientist | Python | SQL | Power BI | Advanced Excel | EDA | Machine Learning Learner*
 
 ---
 
