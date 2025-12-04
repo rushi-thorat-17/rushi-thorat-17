@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Rushi Thorat**
+# 👋 Hi, I'm **Rushikesh Thorat**
 🚀 *Aspiring Data Analyst | Python | SQL | Power BI | Advanced Excel | EDA | Machine Learning Learner*
 
 ---
@@ -64,9 +64,9 @@ I'm also deeply interested in **AI, ML, and Data Science** — actively building
 ---
 
 ## 🌐 Connect With Me
-- 🔗 **LinkedIn:** *(add your link here)*  
-- 📂 **GitHub:** *(your GitHub profile link)*  
-- ✉ **Email:** *(your email here)*  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/rushikesh-thorat-551615294/  
+- 📂 **GitHub:** https://github.com/rushi-thorat-17
+- ✉ **Email:** rushithorat1707@gmail.com
 
 ---
 
