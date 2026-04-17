@@ -1,74 +1,151 @@
-# 👋 Hi, I'm **Rushikesh Thorat**
-🚀 *Aspiring Data Scientist | Python | SQL | Power BI | Advanced Excel | EDA | Machine Learning Learner*
+<h1 align="center">Rushi Thorat</h1>
+
+<p align="center">
+  <b>Building Intelligent Systems with Data • AI • Machine Learning</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rushi-thorat-17">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/rushikesh-thorat-551615294/">
+    <img src="https://img.shields.io/badge/Professional-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://medium.com/@rushithorat1707">
+    <img src="https://img.shields.io/badge/Articles-Medium-black?style=for-the-badge&logo=medium">
+  </a>
+</p>
 
 ---
 
-## 🌟 About Me
-I'm a passionate Data Analyst currently learning and working on real-world projects.  
-I enjoy exploring datasets, identifying patterns, and creating impactful visualizations.  
-I follow a simple, structured, and meaningful approach to turning data into insights.
+## ⚡ Profile Snapshot
 
-I'm also deeply interested in **AI, ML, and Data Science** — actively building skills to grow in this domain.
-
----
-
-## 🧰 Skills & Tools
-
-| Category             | Tools / Skills |
-|----------------------|----------------|
-| **Programming**      | Python (Pandas, NumPy), SQL |
-| **Data Handling**    | Data Cleaning, Exploratory Data Analysis (EDA) |
-| **Visualization**    | Power BI, Matplotlib, Seaborn |
-| **Analytics**        | Statistics, Business Insights |
-| **Other Skills**     | Advanced Excel, Data Wrangling |
-| **Currently Learning** | Machine Learning, Gen AI, Predictive Modeling |
+- 🎯 Focus: Data Science & AI Systems  
+- 🧠 Core Strength: Problem Solving + Practical ML  
+- 🚀 Approach: Build → Break → Improve → Deploy  
+- 📍 Based in India  
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Engineering Mindset
 
-### 📊 1. **EDA – Data Science Salaries Analysis**
-- Explored global salary trends in data science roles  
-- Identified factors affecting pay: skills, job titles, experience, location  
-- Visualized salary distribution using advanced charts (KDE, Heatmap, Donut)
+I focus on **building usable systems**, not just models.
 
----
+- Converting raw data → meaningful insights  
+- Turning ML models → real applications  
+- Understanding *why* models work, not just *how*  
 
-### 🛢 2. **SQL – Global Energy Consumption Analysis**
-- SQL-based analysis of worldwide energy usage  
-- Used CTEs, joins, aggregations, subqueries  
-- Extracted insights on consumption patterns across regions & resources
+> *“A model is just the beginning. Impact comes from implementation.”*
 
 ---
 
-### 📈 3. **Excel – Student Performance Dashboard**
-- Designed an interactive Excel dashboard for student performance  
-- Included KPIs, slicers, charts, and performance metrics  
-- Clean layout with actionable insights
+## 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+</p>
+
+**Machine Learning:**  
+Scikit-learn • Model Evaluation • Feature Engineering • Optimization  
+
+**Data:**  
+Pandas • NumPy • EDA • Visualization  
+
+**Concepts:**  
+DSA • OOP • Algorithms • Statistical Thinking  
 
 ---
 
-### 🚢 4. **Python EDA – Titanic Dataset**
-- Complete data cleaning + exploratory analysis  
-- Visual insights on solo vs family passengers  
-- Survival trends with bar charts, KDE, and relationship analysis
+## 🚀 Selected Work
+
+### 🧠 Fake News Detection System  
+<a href="https://github.com/yourusername/fake-news-detection">
+<img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github">
+</a>
+
+- NLP pipeline with TF-IDF  
+- Naive Bayes classification  
+- Focus: misinformation detection  
 
 ---
 
-## 🚀 What I'm Working On
-- Strengthening Machine Learning fundamentals  
-- Improving EDA storytelling  
-- Building complete Data Analyst portfolio projects  
-- Posting data visualizations and insights on LinkedIn  
+### 🎯 Insurance Cost Prediction  
+<a href="https://github.com/rushi-thorat-17/Medical_Health_Insurance_Intelligence_System">
+<img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github">
+</a>
+
+- Regression modeling  
+- Feature engineering driven improvements  
+- Real-world dataset handling  
 
 ---
 
-## 🌐 Connect With Me
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/rushikesh-thorat-551615294/  
-- 📂 **GitHub:** https://github.com/rushi-thorat-17
-- ✉ **Email:** rushithorat1707@gmail.com
+- Full-stack system  
+- Backend + database integration  
+- Real operational workflow  
 
 ---
 
-⭐ *Thanks for visiting my profile! I’m open to collaboration, projects, and learning opportunities.*  
-Let’s build something impactful together! 🚀
+## ✍️ Knowledge Sharing
+
+<p align="center">
+  <a href="https://medium.com/@rushithorat1707">
+    <img src="https://img.shields.io/badge/Explore%20My%20Writing-Medium-black?style=for-the-badge&logo=medium">
+  </a>
+</p>
+
+I write simplified explanations of complex topics in:
+
+- Machine Learning  
+- Data Science  
+- AI fundamentals  
+
+---
+
+## 📊 Engineering Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Language Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Trajectory
+
+- Strengthening ML fundamentals  
+- Moving towards Deep Learning  
+- Learning model deployment  
+- Preparing for advanced AI systems  
+
+---
+
+## 🧭 Beyond Code
+
+Exploring forts, landscapes, and long journeys —  
+building the same endurance and curiosity in life as in tech.
+
+---
+
+## ⚡ Closing Thought
+
+> “Consistency beats intensity. Systems beat motivation.”
