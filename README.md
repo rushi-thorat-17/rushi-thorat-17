@@ -125,7 +125,7 @@ I write simplified explanations of complex topics in:
 ## 📈 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushi-thorat-17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
