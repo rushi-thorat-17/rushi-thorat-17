@@ -113,11 +113,11 @@ I write simplified explanations of complex topics in:
 ## 📊 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushi-thorat-17=&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rushi-thorat-17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
