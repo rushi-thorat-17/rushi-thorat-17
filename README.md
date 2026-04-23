@@ -60,7 +60,7 @@ Scikit-learn • Model Evaluation • Feature Engineering • Optimization
 Pandas • NumPy • EDA • Visualization  
 
 **Concepts:**  
-DSA • OOP • Algorithms • Statistical Thinking  
+OOP • Algorithms • Statistical Thinking  
 
 ---
 
