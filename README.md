@@ -1,5 +1,5 @@
 <h1 align="center">Rushi Thorat</h1>
-<p align="center">
+<p align="center"> 
   <b>Building Intelligent Systems with Data • AI • Machine Learning</b>
 </p> 
 
