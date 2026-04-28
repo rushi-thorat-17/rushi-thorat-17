@@ -13,7 +13,7 @@
   <a href="https://medium.com/@rushithorat1707">
     <img src="https://img.shields.io/badge/Articles-Medium-black?style=for-the-badge&logo=medium">
   </a>
-</p>
+</p> 
 
 ---
 
