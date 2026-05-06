@@ -2,7 +2,7 @@
 <p align="center"> 
   <b>Building Intelligent Systems with Data • AI • Machine Learning</b>
 </p> 
- 
+
 <p align="center"> 
   <a href="https://github.com/rushi-thorat-17">
     <img src="https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github">
